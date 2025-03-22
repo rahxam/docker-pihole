@@ -52,4 +52,4 @@ volumes:
 
 networks:
   traefik:
-    external: trueit
+    external: true
